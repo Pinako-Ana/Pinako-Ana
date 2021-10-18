@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### SSAFY 6기 (7월 ~)
 ### Algorithm Blog: https://velog.io/@fufru
+### Programmers Profile: https://programmers.co.kr/pr/fufru_9686
+### BaekJoon Profile: https://solved.ac/profile/fufru
 <!--
 **Pinako-Ana/Pinako-Ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
