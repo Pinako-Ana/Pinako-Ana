@@ -3,8 +3,6 @@
 
 ### Algorithm Blog: https://velog.io/@fufru
 >느리지만 꾸준히 알고리즘 해설을 올리고 있습니다.
-### Programmers Profile: https://programmers.co.kr/pr/fufru_9686
->프로그래머스 프로필입니다.
 ### BaekJoon Profile: https://solved.ac/profile/fufru
 >현재 백준 Gold1이며 플래티넘을 목표를 하고있습니다.
 <!--
