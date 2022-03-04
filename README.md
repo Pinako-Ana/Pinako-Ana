@@ -1,8 +1,5 @@
 ### Hi there 👋
 ### SSAFY 6기 (2021년 7월 ~)
->백엔드 교육 - Java/Spring기반 웹 교육 과정 <br/>
-알고리즘 중심 교육 <br/>
-2주마다 진행하는 페어 프로젝트 <br/>
 
 ### Algorithm Blog: https://velog.io/@fufru
 >느리지만 꾸준히 알고리즘 해설을 올리고 있습니다.
