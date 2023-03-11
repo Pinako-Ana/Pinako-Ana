@@ -1,5 +1,6 @@
 ### Hi there 👋
-### SSAFY 6기 (2021년 7월 ~)
+### SSAFY 6기 (2021년 7월 ~ 2022 6월)
+### SSAFY 7기 실습코치 (2022년 7월 ~ 2022년 11월)
 
 ### Algorithm Blog: https://velog.io/@fufru
 >느리지만 꾸준히 알고리즘 해설을 올리고 있습니다.
